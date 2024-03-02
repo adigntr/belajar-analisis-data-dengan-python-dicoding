@@ -28,7 +28,7 @@ streamlit run your_script.py
 Data diperoleh dari [Brazilian E-Commerce Public Dataset](https://raw.githubusercontent.com/adigntr/dicoding-dataset/main/E-Commerce%20Public%20Dataset/main_df.csv), yang merupakan dataset publik mengenai transaksi e-commerce di Brazil.
 
 ## Requirements
-- Python 3.11+
+- Python 3.11
 - Streamlit
 - Pandas
 - Matplotlib
