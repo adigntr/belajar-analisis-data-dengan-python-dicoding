@@ -17,19 +17,12 @@ Proyek ini bertujuan untuk menganalisis dataset e-commerce publik dari Brazil me
 ## Installation
 Pastikan Python telah terinstal pada sistem Anda. Instalasi dapat dilakukan dengan menjalankan perintah berikut di terminal atau command prompt:
 ```python
-pip install streamlit pandas matplotlib seaborn
+pip install -r requirements.txt
 ```
 Setelah semua dependensi terinstal, jalankan aplikasi dengan:
 ```python
-streamlit run your_script.py
+streamlit run dashboard.py
 ```
 
 ## Data Source
 Data diperoleh dari [Brazilian E-Commerce Public Dataset](https://raw.githubusercontent.com/adigntr/dicoding-dataset/main/E-Commerce%20Public%20Dataset/main_df.csv), yang merupakan dataset publik mengenai transaksi e-commerce di Brazil.
-
-## Requirements
-- Python 3.11
-- Streamlit
-- Pandas
-- Matplotlib
-- Seaborn
